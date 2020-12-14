@@ -1,0 +1,66 @@
+*{
+    margin: 0.1px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family:Geomanist;
+    user-select: none;
+    text-decoration: none;
+}
+@font-face{
+    font-family:Geomanist;
+    src:url(fonts/Geomanist.woff) ;
+}
+
+.funciones{
+  display: block;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  {text-decoration: none;}
+}
+
+.aaa{
+  border-radius: 5px;
+  background-color: #ffa154;
+  color: white;
+  }
+
+fieldset{
+  margin: 0 auto;
+  margin-top: 40px;
+  width: 50%;
+  text-align: left;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+fieldset label{
+  margin: 0 auto;
+  text-align: center;
+  display: block;
+}
+legend{
+  margin: 0 auto;
+  text-align: center;
+  font-size: 20px;
+}
+
+button{
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+input{
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+select{
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+}
